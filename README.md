@@ -1,4 +1,4 @@
-# 📂 **[Your Name] - Java Development Challenges**
+# 📂 **Akhil - Java Development Challenges**
 
 ### Description:
 This repository contains coding challenges and project activities as part of my training program. The tasks cover core Java collections, CRUD operations, RESTful services, MySQL integration, Spring Boot, and Servlets. The code implements solutions to various problems, focusing on building scalable Java-based applications.
@@ -34,8 +34,9 @@ This repository contains coding challenges and project activities as part of my 
    - Authentication and authorization for users.
 
    **📸 Project Screenshots**:
-   ![Task Management System](path-to-your-screenshot1.png)
-   ![Task Management System Features](path-to-your-screenshot2.png)
+   ![home](https://github.com/user-attachments/assets/e206e426-e187-41e1-aa01-c3fb462792e5)
+   ![createTask](https://github.com/user-attachments/assets/6c0e421d-193a-48c4-9a67-5185330eea95)
+   ![editTask](https://github.com/user-attachments/assets/b7aef788-a0ee-4af1-b2d4-05b8da76e5c1)
 
 ---
 
@@ -57,9 +58,7 @@ This repository contains coding challenges and project activities as part of my 
    - Generate reports (e.g., low stock alerts).
 
    **📸 Project Screenshots**:
-   ![home](https://github.com/user-attachments/assets/e206e426-e187-41e1-aa01-c3fb462792e5)
-   ![createTask](https://github.com/user-attachments/assets/6c0e421d-193a-48c4-9a67-5185330eea95)
-   ![editTask](https://github.com/user-attachments/assets/b7aef788-a0ee-4af1-b2d4-05b8da76e5c1)
+  
 
 ---
 
