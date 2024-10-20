@@ -58,7 +58,13 @@ This repository contains coding challenges and project activities as part of my 
    - Generate reports (e.g., low stock alerts).
 
    **📸 Project Screenshots**:
-  
+      ![home](https://github.com/user-attachments/assets/f2d15107-31bf-4718-bfc2-6791955e58fb)
+      ![productList](https://github.com/user-attachments/assets/16b50ed6-a07c-463e-9bcc-90548b211c33)
+      ![categories](https://github.com/user-attachments/assets/53debca3-2a17-4db0-9f5e-2d7d802c6966)
+      ![addProduct](https://github.com/user-attachments/assets/2c50e228-e3e7-4f7c-80f0-bca53152cae5)
+      ![editProduct](https://github.com/user-attachments/assets/8dc40478-58ee-47e5-b395-135258e77e87)
+      ![order](https://github.com/user-attachments/assets/5bf321bd-73cf-4293-828b-28bfcc87232f)
+      ![lowStock](https://github.com/user-attachments/assets/183e03af-148d-472e-8ffb-da169dbc6055)
 
 ---
 
@@ -76,8 +82,7 @@ This repository contains coding challenges and project activities as part of my 
 
 2. **Type-safe Container**:
    - Develop a type-safe container class `Container<T>` that can hold a single object of type T.
-
-
+     
 ---
 
 ### Project Tasks:
@@ -87,7 +92,14 @@ This repository contains coding challenges and project activities as part of my 
    - Fine calculation based on return dates.
 
    **📸 Project Screenshots**:
-   ![Library Management System](path-to-your-screenshot5.png)
-   ![Library Management System Features](path-to-your-screenshot6.png)
+     ![home](https://github.com/user-attachments/assets/cf5a594c-1ec2-4b99-a9e9-86bacb0c864a)
+     ![book-list](https://github.com/user-attachments/assets/cb192eae-cd45-4740-bda6-717c3ccc0d31)
+     ![Author-list](https://github.com/user-attachments/assets/eddae0e3-72d2-4faa-9ef2-d4e3ac27b7d8)
+     ![addAuthor](https://github.com/user-attachments/assets/f1bc7898-39d7-400a-87e2-e13801100f59)
+     ![addEditBook](https://github.com/user-attachments/assets/c140acfc-2c72-420d-9ff6-9c6d2ce558ba)
+     ![borrow-recrd](https://github.com/user-attachments/assets/b1decd82-d303-4520-82a6-1e0dea6301e9)
+     ![borrower](https://github.com/user-attachments/assets/4755ffe5-7898-4cb6-8dbb-41dcbfe9f61c)
 
 ---
+
+
